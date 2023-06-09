@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <img src="./github-header-image (2).png">
 <h3 align="center">A passionate Problem Solvere from Earth 🍕</h3>
-<img align="left" alt="Coding" width="300" src="giphy.gif"><br><br>
+<img align="center" alt="Coding" width="300" src="giphy.gif"><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihan40&label=Profile%20views&color=0e75b6&style=flat" alt="raihan40" /> </p><br>
 
