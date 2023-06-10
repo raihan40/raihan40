@@ -1,106 +1,114 @@
+<h1 align="center">
+  <img src="./github-header-image (2).png" alt="Header Image">
+</h1>
 
-<!--
-**raihan40/raihan40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<html>
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>/* Add responsive styles */
-.container {
-  max-width: 100%;
-  padding: 0 20px;
-  margin: 0 auto;
-}
-
-/* Add superb CSS for profile heading */
-.profile-heading {
-  text-align: center;
-  font-size: 24px;
-  color: #333;
-  margin-top: 20px;
-}
-
-/* Add superb CSS for coding GIF */
-.coding-gif {
-  display: block;
-  margin: 0 auto;
-  max-width: 100%;
-}
-
-/* Add animation using JavaScript */
-.coding-gif {
-  opacity: 0;
-  transform: translateY(20px);
-  animation: fadeAndSlideIn 1s ease-in-out forwards;
-}
-
-@keyframes fadeAndSlideIn {
-  0% {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-</style>
-  <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var codingGif = document.querySelector(".coding-gif");
-    codingGif.style.opacity = "1";
-    codingGif.style.transform = "translateY(0)";
-  });
-</script>
-
-</head>
-  <body>
-<div class="container">
-  <!-- Your existing content -->
-<img src="./github-header-image (2).png" class="header-image">
-  <h3 class="profile-heading">A passionate Problem Solvere from Earth 🍕</h3>
-  <img class="coding-gif" src="giphy.gif" alt="Coding"><br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raihan40&label=Profile%20views&color=0e75b6&style=flat" alt="raihan40" /> </p><br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihan40" alt="raihan40" /></a> </p>
-
-- 🌱 I’m currently learning **Blockchain**
-
-- 👨‍💻 All of my projects are available at [https://github.com/raihan40?tab=repositories](https://github.com/raihan40?tab=repositories)
-
-- 💬 Ask me about **Java(oops),Database Management System, Operating System, Algorithm And Data Structure**
-
-- 📫 How to reach me **raihanlaskar65@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/raihan laskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raihan laskar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@raihanlaskar941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@raihanlaskar941" height="30" width="40" /></a>
+<p align="center">
+  <em>I'm a passionate problem solver from Earth.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-<br>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/raihanlasky"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raihanlaskar65@gmail.com" /></a><a href="https://ko-fi.com/raihanlaskar65@gmail.com"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="raihanlaskar65@gmail.com" /></a></p><br><br> <br>
+<div align="center" style="background-color: #F6F8FA; padding: 20px; border: 1px solid #E1E4E8; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <h2>Welcome to my GitHub profile!</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihan40&show_icons=true&locale=en&layout=compact" alt="raihan40" /></p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=raihan40&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raihan40&show_icons=true&locale=en" alt="raihan40" /></p>
+  <p align="center">
+    <img align="center" src="giphy.gif" alt="Coding">
+  </p>
+| GitHub Profile Trophy |
+|:---:|
+| ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=raihan40) |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihan40&" alt="raihan40" /></p>
 </div>
-  </body>
-  </html>
+
+## About Me
+
+- 🌱 I’m currently learning **Blockchain** and exploring its potential applications.
+- 👨‍💻 My primary programming languages are **Java**, **JavaScript**, and **PHP**.
+- 💼 I'm actively seeking new opportunities and collaborations in the software development field.
+- 🎓 I hold a degree in B.Sc in Computer Science Hons and pursuing B.Tech in CSE from Calcutta University. I have a strong foundation in **Database Management System**, **Operating System**, **Algorithm**, and **Data Structure**.
+
+## Projects
+
+| Project Name | Description |
+|--------------|-------------|
+| Project 1    | A web application for online grocery purchase platform using HTML, CSS, JavaScript, PHP, and MySQL. |
+| Project 2    | A web application for real-time group chatting system using Socket.IO. |
+| Project 3    | Student marks analyzer for further improvement in academics (Currently working on it). |
+| Project 4    | Java game using Swing where a hero battles against multiple villains, engaging in attacks and defense as the hero fights for survival. |
+| Mini Project | Crossword puzzle game, word guessing game, MCQ test management system. |
+
+Feel free to explore my repositories for more exciting projects!
+
+## Skills and Tools
+
+Here are some of the languages, frameworks, and tools that I'm familiar with:
+
+| Category   | Skills/Tools                                                                                                            |
+|------------|------------------------------------------------------------------------------------------------------------------------|
+| Languages  | C, CSS, HTML, Java, JavaScript, PHP                                                                                     |
+| Version Control | Git                                                                                                                    |
+| Databases  | MySQL, Oracle                                                                                                          |
+| Operating Systems | Linux, Windows                                                                                                              |
+| Other Tools | Apache Xampp, 8085-Simulator, Logisim, Devc++, Canva, StarUML, Visual-Studio, Overleaf, Intel Quartus, Cisco Packet Tracer, Heroku, Eclipse|
+<table style="background-color: #f8f8f8; border-collapse: collapse;">
+  <tr style="background-color: #f5f5f5;">
+    <th style="background-color: #eaeaea; padding: 10px;">C</th>
+    <th style="background-color: #eaeaea; padding: 10px;">CSS</th>
+    <th style="background-color: #eaeaea; padding: 10px;">Git</th>
+    <th style="background-color: #eaeaea; padding: 10px;">HTML</th>
+    <th style="background-color: #eaeaea; padding: 10px;">Java</th>
+    <th style="background-color: #eaeaea; padding: 10px;">Linux</th>
+    <th style="background-color: #eaeaea; padding: 10px;">MySQL</th>
+    <th style="background-color: #eaeaea; padding: 10px;">Oracle</th>
+    <th style="background-color: #eaeaea; padding: 10px;">PHP</th>
+  </tr>
+  <tr>
+    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></td>
+    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS"></td>
+    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></td>
+    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML"></td>
+    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></td>
+    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></td>
+    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></td>
+    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle"></td>
+    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"></td>
+  </tr>
+</table>
+
+<p align="center">
+  📫 How to reach me:
+  <a href="mailto:raihanlaskar65@gmail.com">raihanlaskar65@gmail.com</a>
+</p>
+
+<p align="center">
+  <a href="https://fb.com/raihanlaskar" target="_blank">
+    <img width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook">
+  </a>
+  <a href="https://www.hackerrank.com/raihanlaskar941" target="_blank">
+    <img width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank">
+  </a>
+</p>
+
+## GitHub Stats   
+| Top Languages | GitHub Stats | GitHub Streak |
+| --- | --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raihan40&layout=compact&langs_count=8) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raihan40&show_icons=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raihan40) |
+
+
+<h3 align="center">Support:</h3>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/raihanlasky">
+    <img width="200" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee">
+  </a>
+</p>
+
+<p align ="center">Feel free to explore my repositories and don't forget to leave a ⭐️ if you find something interesting!</p>
+
+---
+
+<p align="center">
+  &copy; 2023 Raihan Laskar. All rights reserved.
+</p>
