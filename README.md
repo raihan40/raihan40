@@ -13,9 +13,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./github-header-image (2).png">
-<h3 align="center">A passionate Problem Solvere from Earth 🍕</h3>
-<img align="center" alt="Coding" width="300" src="giphy.gif"><br><br>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>/* Add responsive styles */
+.container {
+  max-width: 100%;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+/* Add superb CSS for profile heading */
+.profile-heading {
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+  margin-top: 20px;
+}
+
+/* Add superb CSS for coding GIF */
+.coding-gif {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+/* Add animation using JavaScript */
+.coding-gif {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeAndSlideIn 1s ease-in-out forwards;
+}
+
+@keyframes fadeAndSlideIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+</style>
+  <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var codingGif = document.querySelector(".coding-gif");
+    codingGif.style.opacity = "1";
+    codingGif.style.transform = "translateY(0)";
+  });
+</script>
+
+</head>
+  <body>
+<div class="container">
+  <!-- Your existing content -->
+<img src="./github-header-image (2).png" class="header-image">
+  <h3 class="profile-heading">A passionate Problem Solvere from Earth 🍕</h3>
+  <img class="coding-gif" src="giphy.gif" alt="Coding"><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihan40&label=Profile%20views&color=0e75b6&style=flat" alt="raihan40" /> </p><br>
 
@@ -46,4 +101,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raihan40&show_icons=true&locale=en" alt="raihan40" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihan40&" alt="raihan40" /></p>
-
+</div>
+  </body>
+  </html>
