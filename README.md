@@ -5,7 +5,7 @@
 <p align="center">
   <em>I'm a passionate problem solver from Earth.</em>
 </p>
-
+  <p align="center"><img src="./giphy.gif" alt="Intro Image"></p>
 <div align="center" style="background-color: #F6F8FA; padding: 20px; border: 1px solid #E1E4E8; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <h2>Welcome to my GitHub profile!</h2>
 
