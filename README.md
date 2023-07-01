@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="./github-header-image (2).png" alt="Header Image">
+ 
+  ![github-header-image](https://github.com/raihan40/raihan40/assets/86623443/3963f07b-0bed-46f2-a6f5-26f63ed179e8)
+
 </h1>
 
 <p align="center">
@@ -9,8 +11,11 @@
 <div align="center" style="background-color: #F6F8FA; padding: 20px; border: 1px solid #E1E4E8; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <h2>Welcome to my GitHub profile!</h2>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=raihan40&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <p height ="200">
+    
+    
+  ![giphy](https://github.com/raihan40/raihan40/assets/86623443/a74e94f4-8a2e-4bc1-a5f8-4e56e3fbb00e)
+
   </p>
 
 | GitHub Profile Trophy |
@@ -50,43 +55,26 @@ Here are some of the languages, frameworks, and tools that I'm familiar with:
 | Operating Systems | Linux, Windows                                                                                                              |
 | Other Tools | Apache Xampp, 8085-Simulator, Logisim, Devc++, Canva, StarUML, Visual-Studio, Overleaf, Intel Quartus, Cisco Packet Tracer, Heroku, Eclipse|
 <table style="background-color: #f8f8f8; border-collapse: collapse;">
-  <tr style="background-color: #f5f5f5;">
-    <th style="background-color: #eaeaea; padding: 10px;">C</th>
-    <th style="background-color: #eaeaea; padding: 10px;">CSS</th>
-    <th style="background-color: #eaeaea; padding: 10px;">Git</th>
-    <th style="background-color: #eaeaea; padding: 10px;">HTML</th>
-    <th style="background-color: #eaeaea; padding: 10px;">Java</th>
-    <th style="background-color: #eaeaea; padding: 10px;">Linux</th>
-    <th style="background-color: #eaeaea; padding: 10px;">MySQL</th>
-    <th style="background-color: #eaeaea; padding: 10px;">Oracle</th>
-    <th style="background-color: #eaeaea; padding: 10px;">PHP</th>
+
+</table>
+
+<table align="center">
+  <tr>
+    <th colspan="3">Contact Me</th>
   </tr>
   <tr>
-    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></td>
-    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS"></td>
-    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></td>
-    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML"></td>
-    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></td>
-    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></td>
-    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></td>
-    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle"></td>
-    <td style="background-color: #ffffff; padding: 10px;"><img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"></td>
+     <td>
+        <a href="mailto:raihanlaskar65@gmail.com">Email</a>
+    </td>
+    <td>
+      <a href="https://fb.com/raihanlaskar" target="_blank">Facebook</a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/raihanlaskar941" target="_blank">HackerRank</a>
+    </td>
   </tr>
 </table>
 
-<p align="center">
-  📫 How to reach me:
-  <a href="mailto:raihanlaskar65@gmail.com">raihanlaskar65@gmail.com</a>
-</p>
-
-<p align="center">
-  <a href="https://fb.com/raihanlaskar" target="_blank">
-    <img width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook">
-  </a>
-  <a href="https://www.hackerrank.com/raihanlaskar941" target="_blank">
-    <img width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank">
-  </a>
-</p>
 
 ## GitHub Stats   
 | Top Languages | GitHub Stats | GitHub Streak |
