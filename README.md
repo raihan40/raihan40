@@ -35,6 +35,7 @@
 
 | Project Name | Description |
 |--------------|-------------|
+| Project 0    | IoT-Based-Efficient-Temperature-Monitoring-and-Cooling-Automation-Framework|
 | Project 1    | A web application for online grocery purchase platform using HTML, CSS, JavaScript, PHP, and MySQL. |
 | Project 2    | A web application for real-time group chatting system using Socket.IO. |
 | Project 3    | Student marks analyzer for further improvement in academics (Currently working on it). |
@@ -49,7 +50,7 @@ Here are some of the languages, frameworks, and tools that I'm familiar with:
 
 | Category   | Skills/Tools                                                                                                            |
 |------------|------------------------------------------------------------------------------------------------------------------------|
-| Languages  | C, CSS, HTML, Java, JavaScript, PHP                                                                                     |
+| Languages  | C, CSS, HTML, Java, JavaScript, PHP, Python                                                                                     |
 | Version Control | Git                                                                                                                    |
 | Databases  | MySQL, Oracle                                                                                                          |
 | Operating Systems | Linux, Windows                                                                                                              |
